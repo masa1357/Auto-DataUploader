@@ -6,3 +6,7 @@
 - PythonでSSH接続するためのライブラリ．公式：paramiko.org
 - install：
 ```pip install paramiko```
+
+## 手順
+同ディレクトリ内にuploader.ipynbとResearchフォルダを入れて，research.ipynbを実行してください．
+research.ipynbはログイン情報（多分Futicでいい）を記入しておいてください．
