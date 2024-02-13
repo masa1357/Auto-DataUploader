@@ -4,4 +4,5 @@
 ## 必要なライブラリ
 ### paramiko
 - PythonでSSH接続するためのライブラリ．公式：paramiko.org
+- install：
 ```pip install paramiko```
